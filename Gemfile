@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 gem 'asciidoctor', '1.5.0'
 gem 'asciidoctor-diagram', github: 'pepijnve/asciidoctor-diagram'
-#gem 'asciidoctor-diagram-d3js', github: 'hnakamur/asciidoctor-diagram-d3js'
-gem 'asciidoctor-diagram-d3js', path: '/Users/hnakamur/mysrc/asciidoctor-diagram-d3js'
+gem 'asciidoctor-diagram-d3js', github: 'hnakamur/asciidoctor-diagram-d3js'
 gem 'rake'

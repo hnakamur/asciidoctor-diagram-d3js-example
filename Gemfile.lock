@@ -1,16 +1,17 @@
 GIT
+  remote: git://github.com/hnakamur/asciidoctor-diagram-d3js.git
+  revision: 8aa31c5cc01bcd0b60b5d731b361db7ab0da729d
+  specs:
+    asciidoctor-diagram-d3js (0.0.1)
+      nokogiri (~> 1.5.10)
+
+GIT
   remote: git://github.com/pepijnve/asciidoctor-diagram.git
   revision: c036736b8ced484a2708b79980749a85df3b1867
   specs:
     asciidoctor-diagram (1.3.0)
       asciidoctor (~> 1.5.0)
       rjb (~> 1.4.8)
-
-PATH
-  remote: /Users/hnakamur/mysrc/asciidoctor-diagram-d3js
-  specs:
-    asciidoctor-diagram-d3js (0.0.1)
-      nokogiri (~> 1.5.10)
 
 GEM
   remote: https://rubygems.org/
