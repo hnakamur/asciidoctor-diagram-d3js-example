@@ -1,0 +1,4 @@
+= asciidoctor-diagram-d3js-example
+
+.example class diagram
+d3js::class-diagram[format="svg"]
